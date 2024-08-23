@@ -20,8 +20,8 @@ permalink: /tags/
       {% if post.image %}
         <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}">
       {% endif %}
-      <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-      <p class="discription">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      <h2><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 40 }}</a></h2>
+      <p class="discription">{{ post.description | truncate: 150 }}</p>
       <a href="{{ post.url | absolute_url }}" class="read-more">Read More</a>
     </div>
   {% endfor %}

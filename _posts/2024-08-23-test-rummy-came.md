@@ -3,6 +3,7 @@ layout: post
 date: '2024-08-23 00:00:00 +0000'
 image: https://agre-pro.s3.me-central-1.amazonaws.com/Abjraj_center_2_e31787687d.jpg
 permalink: '/:title/'
+description: "This is a mini description of the post, which will be displayed in the card layout."
 categories:
   - casino
 tags:
