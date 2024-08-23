@@ -5,6 +5,7 @@ image: /assets/images/residential banner home 2.jpg
 permalink: '/:title/'
 categories:
   - blockchain
+  - casino
 tags:
   - blockchain development services
 ---
