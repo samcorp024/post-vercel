@@ -450,7 +450,7 @@ table td { border: 1px solid #e8e8e8; }
 
   }
   .active {
-    width:50px !important;
+    /* width:50px !important; */
     border-radius  :50px !important;
     background-color: #54a0ef !important;
     color:black !important;
