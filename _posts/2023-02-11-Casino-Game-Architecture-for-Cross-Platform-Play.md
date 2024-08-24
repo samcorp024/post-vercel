@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Casino Game Architecture for Cross-Platform Play"
+title: ""
 date: 2023-02-11
 image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20Game%20Development.png?raw=true
 permalink: /:title/
