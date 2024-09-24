@@ -6,7 +6,8 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "Building a robust architecture for cross-platform play is essential for..."
 author: John Austin
-categories: [Casino Game Development]
+categories:
+  - Casino Game Development
 tags:
   - casino-game-development
   - casino-game-development-company

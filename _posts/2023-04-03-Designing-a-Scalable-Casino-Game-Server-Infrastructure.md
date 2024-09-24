@@ -6,7 +6,8 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "Designing a scalable casino game server infrastructure requires careful planning and a deep understanding of the technologies involved..."
 author: John Austin
-categories: [Casino Game Development]
+categories:
+  - Casino Game Development
 tags:
   - casino-game-development
   - casino-game-development-company

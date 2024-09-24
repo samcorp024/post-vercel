@@ -6,7 +6,8 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "As the online gaming industry continues to grow, particularly in competitive markets..."
 author: John Austin
-categories: [Casino Game Development]
+categories:
+  - Casino Game Development
 tags:
   - casino-game-development
   - casino-game-development-company

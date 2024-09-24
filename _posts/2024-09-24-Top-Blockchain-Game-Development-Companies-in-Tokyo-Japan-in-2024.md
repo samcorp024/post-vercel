@@ -6,7 +6,8 @@ image: https://raw.githubusercontent.com/samcorp024/jekyll/b79a1a1aeb5f49e31b9d8
 permalink: /:title/
 description: "Explore Tokyo's top blockchain game development companies in 2024, leading innovation in gaming with cutting-edge blockchain solutions."
 author: John Sen
-categories: [Blockchain Game Development]
+categories:
+  - Blockchain Game Development
 tags:
   - blockchain-game-development
   - blockchain-game-development-company
