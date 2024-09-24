@@ -123,7 +123,7 @@ description: "Posts related to Casino game development."
 <h1>blockchain game development Posts</h1>
 
 <div class="posts-container">
-  {% assign category = 'Blockchain game development' %}
+  {% assign category = 'Blockchain' %}
   {% for post in site.posts %}
     {% if post.categories contains category %}
       <div class="post-card">
