@@ -8,8 +8,8 @@ description: "Explore Tokyo's top blockchain game development companies in 2024,
 author: John Sen
 categories: [Blockchain Game Development]
 tags:
-  - Blockchain-game-development
-  - Blockchain-game-development-company
+  - blockchain-game-development
+  - blockchain-game-development-company
 ---
 
 ![Blockchain Games](https://raw.githubusercontent.com/samcorp024/jekyll/b79a1a1aeb5f49e31b9d86f5420cebba26322931/Top%20Blockchain%20Game%20Development%20Companies%20in%20Tokyo%2C%20Japan%20in%202024%20(1).png?raw=true)
