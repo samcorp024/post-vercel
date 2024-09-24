@@ -6,7 +6,7 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Casino%20G
 permalink: /:title/
 description: "Discover the top 10 casino software providers in China, offering cutting-edge solutions for gaming platforms and seamless integration."
 author: John Austin
-categories: [Casino Game Development]
+categories: [Casino Game Development, category-casino]
 tags:
   - casino-game-development
   - casino-game-development-company
