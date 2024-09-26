@@ -19,7 +19,9 @@
 <body>
   <header class="site-header" role="banner">
     <div class="wrapper">
-      <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+      <a class="site-title" rel="author" href="{{ '/' | absolute_url }}">
+        <img src="{{site.title}}" alt="logo" />
+      </a>
     </div>
   </header>
   <main class="wrapper main-content">
