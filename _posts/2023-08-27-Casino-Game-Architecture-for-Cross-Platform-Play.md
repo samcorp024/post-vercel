@@ -8,6 +8,7 @@ description: "Building a robust architecture for cross-platform play is essentia
 author: John Austin
 categories:
   - Casino Game Development
+  - casino
 tags:
   - casino-game-development
   - casino-game-development-company
