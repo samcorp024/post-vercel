@@ -8,7 +8,7 @@ description: "Discover the top 10 casino software providers in China, offering c
 author: John Austin
 categories: 
   - Casino Game Development
-  - Casino
+  - casino
 tags:
   - casino-game-development
   - casino-game-development-company
