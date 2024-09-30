@@ -6,7 +6,9 @@ image: https://github.com/akashpalve007/prod-website-images/blob/main/Top%20Bloc
 permalink: /:title/
 description: "Discover the top Blockchain Game Development Companies in Doha, Qatar, 2024, offering cutting-edge services and innovative game solutions."
 author: John sen
-categories: [Blockchain Game Development]
+categories: 
+  - Blockchain Game Development
+  - Blockchain
 tags:
   - Blockchain-game-development
   - Blockchain-game-development-company
