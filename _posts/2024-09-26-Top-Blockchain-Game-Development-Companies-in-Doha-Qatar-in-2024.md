@@ -8,7 +8,7 @@ description: "Discover the top Blockchain Game Development Companies in Doha, Qa
 author: John sen
 categories: 
   - Blockchain Game Development
-  - Blockchain
+  - blockchain
 tags:
   - Blockchain-game-development
   - Blockchain-game-development-company
