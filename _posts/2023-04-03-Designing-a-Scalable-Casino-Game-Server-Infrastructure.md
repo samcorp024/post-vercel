@@ -7,7 +7,7 @@ permalink: /:title/
 description: "Designing a scalable casino game server infrastructure requires careful planning and a deep understanding of the technologies involved..."
 author: John Austin
 categories:
-  - Casino
+  - casino
 tags:
   - casino-game-development
   - casino-game-development-company
