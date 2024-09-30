@@ -8,6 +8,7 @@ description: "As the online gaming industry continues to grow, particularly in c
 author: John Austin
 categories:
   - Casino Game Development
+  - Casino
 tags:
   - casino-game-development
   - casino-game-development-company
