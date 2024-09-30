@@ -8,6 +8,7 @@ description: "Designing a scalable casino game server infrastructure requires ca
 author: John Austin
 categories:
   - Casino Game Development
+  - Casino
 tags:
   - casino-game-development
   - casino-game-development-company
