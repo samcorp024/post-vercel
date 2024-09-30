@@ -8,6 +8,7 @@ description: "Choosing the right database is one of the most important decisions
 author: John Austin
 categories:
   - Casino Game Development
+  - Casino
 tags:
   - casino-game-development
   - casino-game-development-company
